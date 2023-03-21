@@ -5,7 +5,7 @@ body {
 
 .app {
   margin: 60px auto;
-  max-width: 800px;
+  max-width: 900px;
 }
 
 .Weather {
@@ -15,10 +15,9 @@ body {
   box-shadow: 0px 30px 50px rgba(65, 50, 100, 0.08);
   padding: 40px;
   color: rgb(135, 135, 135);
-  max-width: 700px;
+  max-width: 900px;
+  min-width: 700px;
 }
-
-
 
 .Weather .logo {
   max-width: 150px;
@@ -71,7 +70,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 
 .Weather li {
   font-weight: 500;
@@ -167,8 +165,7 @@ body {
   align-items: center;
 }
 
-.container{
-    display: flex;
-    justify-content: space-evenly;
+.open-source {
     
+
 }
